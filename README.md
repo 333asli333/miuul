@@ -1,28 +1,22 @@
-# Python Öğreniyorum 🐍
+# Python Öğreniyorum · MIUUL Çalışmaları 🚀
 
-Bu klasör, MIUUL eğitim sürecimde Python programlama dilini öğrenirken yaptığım çalışmaların arşividir. Her dosya, belirli bir konuya odaklanarak hem teorik hem pratik bilgi edinmemi sağlamıştır.
+Bu repo, MIUUL eğitim sürecimde Python programlama dilini öğrenirken adım adım ilerlediğim teknik defterimdir. Her dosya, bir kavramı hem teorik hem pratik olarak keşfetmemi sağladı. Kodun mutfağında neden-sonuç ilişkisini anlamaya çalışırken, kas hafızamı geliştirmek ve teknik gelişimimi arşivlemek için bu çalışmaları GitHub'a aktardım.
 
-## 📁 İçerik
+## 📂 Klasör İçeriği
 
-| Dosya Adı                      | Açıklama |
-|-------------------------------|----------|
-| `PYTHON_TEMELLERİ.py`         | Değişkenler, veri tipleri, koşullu ifadeler ve döngüler gibi temel Python konularını içerir. |
-| `NUMPY_PANDAS_CALISMA.py`     | NumPy ve Pandas kütüphaneleriyle veri manipülasyonu ve temel analiz örnekleri. |
-| `Korelasyon_analizi.py`       | Değişkenler arası ilişkileri incelemek için korelasyon hesaplamaları ve yorumlamalar. |
-| `python_kesifsel_analiz.py`   | Veri seti üzerinde keşifsel veri analizi (EDA) uygulamaları. |
-| `pytgon_veri_görselleştirme.py` | Matplotlib ve Seaborn ile veri görselleştirme örnekleri. |
+| 📌 Dosya | 🎯 Konu |
+|---------|--------|
+| `PYTHON_TEMELLERİ.py` | Değişkenler, veri tipleri, koşullar, döngüler |
+| `NUMPY_PANDAS_CALISMA.py` | Veri manipülasyonu: NumPy & Pandas |
+| `Korelasyon_analizi.py` | Korelasyon hesaplama ve yorumlama |
+| `python_kesifsel_analiz.py` | Keşifsel veri analizi (EDA) |
+| `pytgon_veri_görselleştirme.py` | Matplotlib & Seaborn ile görselleştirme |
 
-## 🎯 Amaç
+## 💡 Neden Bu Repo?
 
-Bu repo, Python öğrenme sürecimi belgelemek, kod kas hafızamı geliştirmek ve teknik defter mantığıyla ilerlemek amacıyla oluşturulmuştur. Her dosya, belirli bir kavramı adım adım öğrenmemi ve uygulamamı sağlar.
-
-## 🛠️ Kullanılan Teknolojiler
-
-- Python 
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
+- Kod yazma kas hafızamı geliştirmek için ritüel pratikler
+- Bilimsel açıklamalarla kavramları netleştirme
+- Teknik defter mantığıyla ilerleme
 
 ## 📌 Notlar
 
@@ -30,9 +24,13 @@ Bu repo, Python öğrenme sürecimi belgelemek, kod kas hafızamı geliştirmek 
 - Dosya isimlerinde yazım hataları olabilir; içerik odaklı ilerlenmiştir.
 - Gelişim süreci GitHub üzerinden arşivlenmekte ve LinkedIn'de paylaşılmaktadır.
 
+
+📌 Bu repo, LinkedIn’de paylaştığım Python öğrenme yolculuğumun GitHub’daki karşılığıdır.  
+🔗 Paylaşım: [LinkedIn Profilim](https://www.linkedin.com/in/aslı-torun-734a28243)  
+📁 Repo: [`python_ogreniyorum`](https://github.com/333asli333/miuul/tree/main/miuul_calisma/python_ogreniyorum)
+
 ---
 
-🧠 Öğrenme ritüelim: Bilimsel açıklamalarla kavramları netleştirip, pratikle pekiştirmek.  
-📚 Teknik defter mantığıyla ilerliyorum.  
-📈 Her dosya bir adım daha ileri!
+💬 Gelişim sürecimi takip etmek istersen, GitHub ve LinkedIn’de teknik defterimi güncellemeye devam ediyorum.  
+🧪 Kodun mantığını birlikte çözümlemek istersen, yorumlara beklerim!
 
